@@ -1,0 +1,3 @@
+Accessory|1|Casti audio|foarte bune|20|running|unisex
+BoardGame|2|Nebunia tancurilor|joc de strategie|120|strategie|12
+Book|3|Cartea Junglei|foarte buna|200$|Joshua Rodriguez|english|aventura|202

@@ -1,0 +1,3 @@
+1|Titanic|film trist cu un vapor|14|BLUE RAY|Drama
+2|Doi barbati si jumatate|viata a doi barbati si un copil|33|BLUE RAY|Sitcom
+3|Oblivion|sf despre viitor|7|BLUE RAY|SF

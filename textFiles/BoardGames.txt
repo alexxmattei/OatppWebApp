@@ -1,0 +1,4 @@
+1|Catan|Joc de strategie, ideal pentru familie|79.99|Aventura|6
+2|World of Tanks - Board Games|Joc de strategie, trezeste nostalgia copilariei|119.99|Strategie|12
+3|Ruleta|Incearca-ti norocul cu Ruleta Noriel|299.99|Joc de noroc|18
+4|Monopoly|Invata elementele de baza ale capitalismului|126.85|Joc de strategie|1

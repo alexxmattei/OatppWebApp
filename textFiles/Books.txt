@@ -1,0 +1,5 @@
+1|Cartea Junglei|foarte buna|200|Joshua Rodriguez|english|aventura|202
+2|Trei Iezi|foarte buna|53|Carlos Eminescu|english|aventura|403
+3|Viata lui Puya|foarte buna|615|Mihaita Mihai|english|aventura|333
+4|Doua ciuperci vesele|foarte buna|998$|Fernando Torres|english|aventura|578
+5|Bicicleta Verde|foarte buna|1000|Luca Vanlolo|english|aventura|2200

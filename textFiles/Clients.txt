@@ -1,0 +1,2 @@
+1|1|Alexandru||Matei|20|10-10-2000|0723217130|alexxmattei@gmail.com|Strada Oaturilor|iloveoat
+2|1|Patrascu|Rares|20|01-01-2000|072456221|rarespatrascu@gmail.com|Strada Vulturilor|ihateoat
